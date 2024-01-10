@@ -1,0 +1,6 @@
+.git
+.dockerignore
+.env
+src/node_modules/
+src/vendor/bundle/
+src/tmp/

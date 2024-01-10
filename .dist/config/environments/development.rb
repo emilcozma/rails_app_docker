@@ -1,0 +1,2 @@
+config.hosts << "app"
+
